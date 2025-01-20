@@ -1,10 +1,9 @@
-NAME: SHASWATH T
-COMPANY: CODETECH IT SOLUTIONS
-ID: CT12DS2876
-DOMAIN: VLSI
-DURATION: DECEMBER TO FEBRUARY
+NAME: SHASWATH T   
+COMPANY: CODETECH IT SOLUTIONS    
+ID: CT12DS2876    
+DOMAIN: VLSI    
+DURATION: DECEMBER TO FEBRUARY    
 
-OVERVIEW OF THE PROJECT:
 Certainly! Here’s an overview of the entire project that combines the design and simulation of basic digital logic circuits using Verilog. This project encompasses the implementation of fundamental components such as an AND gate, a full adder, a 4-bit ripple carry adder, and a 4:1 multiplexer, along with a comprehensive testbench for validation.
 
 ## Project Overview
